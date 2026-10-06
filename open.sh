@@ -4,10 +4,10 @@
 ##########################################################################
 ##########################################################################
 ##########################################################################
-                     API="template" 
-                     google_sheet="https://docs.google.com/spreadsheets/d/1H7UgGtAy3JKvulLqGXVm5zeNq1FdNKonMxxBETQtjXQ/edit?gid=1610289956#gid=1610289956" 
-                     id="1"                 #เปลี่ยน id ทุกครั้งที่ยิง
-                     user="1";              #จำนวนผู้ใช้งาน
+                     API="OCR" 
+                     google_sheet="https://docs.google.com/spreadsheets/d/1HQKRLY92Ywsky8ELtljbsbcvkbbVNk21fohQad8H4os/edit?gid=1610289956#gid=1610289956" 
+                     id="5"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     user="500";              #จำนวนผู้ใช้งาน
                      duration="1";          #วินาที
                      scenario="1"           #scenario="1" ยิงเเบบกำหนด request (duration ได้แค่ 1 วินาที)
                      cid="1"                #scenario="2" ยิงเเบบกำหนด VUs  (กำหนดว่า user x คน ใช้ระบบ x วินาที)

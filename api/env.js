@@ -1,0 +1,2 @@
+export const domain = 'https://uat-dtam-bailanai.ainex.co.th'
+export const token = 'eyJzdWIiOiJkNjVmZWJmY2IzNDdmMGZlZDBmMGRhMTQyZjgzN2VlMDcxMjhkNmM0IiwiZXhwIjoxNzkxMjY4MjY1LCJub25jZSI6ImF4U2dRX0NIUjNKSVhocVlTVElhV0EifQ.GB_jo6-3t9K8fKQHGNz33toZBwqMFg2Zf7HL-7gRYLk'
